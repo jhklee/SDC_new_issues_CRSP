@@ -6,3 +6,5 @@ The documnet Online Appendix: Extraction and Cleaning of IPO Data from SDC Plati
 This would be a good reference to help match SDC data and CRSP data. 
 
 I also verified my results with professor Jay R. Ritter's Initial Public Offerings: Updated Statistics. 
+
+link: https://github.com/volkovacodes/IPO-Review-Chapter
